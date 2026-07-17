@@ -4,6 +4,10 @@ Mini Catalog App is a Flutter-based mobile catalog application developed as the 
 
 The application interface is in English.
 
+## Repository
+
+[github.com/tugbadur/mini-catalog-app](https://github.com/tugbadur/mini-catalog-app)
+
 ## Features
 
 - Dynamic product listing with `GridView.builder`
@@ -108,7 +112,7 @@ Before running the project, install the following tools:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tugbadur/mini-catalog-app.git
    ```
 
 2. Open the project directory:
